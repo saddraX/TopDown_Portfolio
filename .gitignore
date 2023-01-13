@@ -11,7 +11,7 @@ Logs/
 [Bb]uilds/
 Assets/AssetStoreTools*
 #Packages/
-ProjectSettings/
+#ProjectSettings/
 UserSettings/
 
 # Visual Studio cache directory
